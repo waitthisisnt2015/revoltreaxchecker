@@ -10,3 +10,6 @@ fetch('https://raw.githubusercontent.com/waitthisisnt2015/revoltreaxchecker/main
 
 # how to use
 to use it you simpily right click a message to get the message id press the * key on your keyboard
+
+![image](https://github.com/waitthisisnt2015/revoltreaxchecker/assets/148899609/07726fed-6c22-49c7-8c44-b71b8b1de869)
+
