@@ -10,3 +10,5 @@ fetch('https://raw.githubusercontent.com/waitthisisnt2015/revoltreaxchecker/main
 
 # how to use
 to use it you simpily right click a message to get the message id press the * key on your keyboard
+
+#  revoltreaxchecker © 2023 by waitthisisnt2015 is licensed under Attribution-ShareAlike 4.0 International 
